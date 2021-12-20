@@ -1,2 +1,6 @@
 # Contact-Service-Files
 A series of classes with respective junit tests.
+
+This project has certainly shown me the importance of testing in the SDLC. There is an extensive amount of testing that must be done to ensure that my code, program, or software is functional and secure. There is a wide variety of testing that can be performed and an even larger choice of third-party applications that can be used to perform that testing. 
+Testing mostly gets its success criteria from the requirements and requests given by the client/users. It is so important to properly interpret the clients needs which is why many questions and ideas must be given back to the customer so that they have the proper stage to speak from. Our clients don’t always know what they are looking for and even if they do, they may not know how to explain those ideas properly. Simply writing down the user’s requirements is not enough to create what they imagine. 
+I find the best way to design software is to break things down to their most simple level. That’s really all it comes down to. You must create these small attainable goals to eventually reach a large goal in software. I like to break down the requirements down first build everything up compare and iterate. 
